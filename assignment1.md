@@ -9,7 +9,7 @@ What are the leading causes of death in the United States and how does the D.C. 
 
 Using the most recent data set at the Centers for Disease Control and Prevention, I will look at the rate of suicides per capita in each state. Through my reporting, I will examine why certain states have higher suicide rates than others. 
 
-I will combine a text story with bar charts and a map. I will limit my findings to the ten states with highest suicide rates, and interview experts and stakeholders in those states to back up my data analysis. 
+I will combine a text story with bar charts and a map. I will limit my findings to the ten states with the highest suicide rates, and interview experts and stakeholders in those states to back up my data analysis. 
 
 2. *DC CRIME DATA* 
 
