@@ -13,7 +13,7 @@ I will combine a text story with bar charts and a map. I will limit my findings 
 
 2. *DC CRIME DATA* 
 
-I will examine D.C. crime data to reveal the most prevalent crimes in the district for 2018. Specifically, I will interrogate the data to pinpoint where the most violent crimes are. 
+I will examine DC crime data to reveal the most prevalent crimes in the district for 2018. Specifically, I will interrogate the data to pinpoint where the most violent crimes are. 
 
 This information is important to audiences who want a better idea of the neighborhoods that are the safest or most dangerous. Through the data, I might also reveal police bias and question why authorities have a  heightened presence in particular neighborhoods.
 
