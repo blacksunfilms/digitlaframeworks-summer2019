@@ -5,7 +5,7 @@
 
 1. *LEADING CAUSES OF DEATH* 
 
-What are the leading causes of death in the United States and how does the D.C. area compare with other regions? The focus of my data story will be on suicide rates. 
+What are the leading causes of death in the United States and how does the DC area compare with other regions? The focus of my data story will be on suicide rates. 
 
 Using the most recent data set at the Centers for Disease Control and Prevention, I will look at the rate of suicides per capita in each state. Through my reporting, I will examine why certain states have higher suicide rates than others. 
 
