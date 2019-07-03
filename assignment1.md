@@ -1,6 +1,5 @@
 <h2>DIGITAL FRAMEWORKS: ASSIGNMENT ONE</h2>
-**Matt Reynolds**
-**July 2019**
+<b>Matt Reynolds -- July 2019</b>
 
 <h3>DATA STORY PITCHES</h3>
 
