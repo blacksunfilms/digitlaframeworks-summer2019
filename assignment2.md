@@ -1,5 +1,5 @@
-<h2>ASSIGNMENT TWO 
-Frameworks 
+<h2>DIGITAL FRAMEWORKS: ASSIGNMENT TWO</h2>
+<b>Matt Reynolds - July 2019</b>
 
 
 1)	Description of the question you're curious about.
