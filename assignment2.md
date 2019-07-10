@@ -13,7 +13,7 @@ How many days did each candidate spend in Washington? How many days in their own
 
 Days in Washington.  I would rely on roll calls and other congressional data to uncover this. I would also phone each office to confirm and verify this information. 
 
-How much time did each member spend on vacation? I would rely on local media reports, as congress members calendars. Again, I would call each member of congress. 
+How much time did each member spend on vacation? I would rely on local media reports, as well as congressional members' calendars. Again, I would call each member of congress. 
 
 The status of their seat and the result of the last election. I will first establish which seats are swing districts by looking at media reports. I would then go to the election boards in those states to confirm the status of each seat.</p>
 
