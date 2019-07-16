@@ -19,9 +19,7 @@ Column C Edit >Find>STREET and REPLACE with ST (10 Replacements)
 
 Column C Edit >Find>ROAD and REPLACE with RD (11 Replacements)
 
-Column C Edit >Find>ROAD and REPLACE with RD (11 Replacements)
-
-Column C Edit >Find>ROAD and REPLACE with RD (1 Replacements)
+Column C Edit >Find>BOULEVARD and REPLACE with BLVD (1 Replacements)
 
 Insert>Column F to created new column. Named it cleaned_address
 
