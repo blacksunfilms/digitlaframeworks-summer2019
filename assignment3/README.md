@@ -25,7 +25,7 @@ Column C Edit >Find>ROAD and REPLACE with RD (1 Replacements)
 
 Insert>Column F to created new column. Named it cleaned_address
 
-D2 Formula =TRIM(C2) to eliminate spaces in found in C column addresses.
+D2 Formula =TRIM(C2) to eliminate spaces found in C column addresses.
 
 Insert>Column G to create new column. Named it cleaned_zip
 
