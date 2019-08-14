@@ -1,40 +1,21 @@
-<h1>ASSIGNMENT FIVE: DATA QUESTIONS
+<h1>ASSIGNMENT FIVE: DATA QUESTIONS</h1>
 
 **Matt Reynolds -- August 2019**
 
 Three questions for Chicago Crime Data Set.
 
-1) What crime stands out to you in the data?
+Q: What crime stands out to you in the data?
 
-Gambling. Dice.
+A: Arrests arising from gambling with dice.
 
-2) What’s the epicenter for this crime if there is one.
+Q: Where is dice most likely to occur in the city.
 
-The top three community areas for playing dice from 2016 to 2018 were in community areas 23 (Humboldt Park), 25 (Austin), 27. (East Garfield Park)
+A: From 2016 to 2018 there were more arrests in the West Side Communites of Humboldt Park, Austin, and East Garfield Park than any other neighborhoods.
 
-3) Where are people most likely to play.
+Q: In what location do most Dice complaints occur.
 
-On the sidewalk.
+A: Sidewalks.
 
-Headline: West Side of Chicago Hotspots for Dice
+Headline: Three West Side Communities of Chicago Hotspots for Playing Dice 
 
-The top three community areas for playing dice from 2016 to 2018 were the west side community areas of 23 (Humboldt Park), 25 (Austin), 27. (East Garfield Park)
-
- 
-
-
-
-
-
-
-
-
-
-
-Submit a link to the dataset you found, your three questions, as well as the answers to those questions.
-Keep a data diary: write down all steps used to clean and analyze the data, including any Excel formulas. Excel formulas should be submitted using markdown language (between grave accent marks, also known as a backtick, commonly used to indicate code vs. text).
-Write a sample headline and nut graf based on the most interesting answer among your three questions.
-A drawing, mockup or sketch of at least one potential visualization. This can be electronic or on paper.
-This assignment is due by August 14 at 6 p.m.
-
-Where are 
+Graf: Over a three year period more people were arrested for playing dice in the West Side of community of Humboldt Park than any other community, an analysis of city data reveals, with 87 arrests between 2016 and 2018.
