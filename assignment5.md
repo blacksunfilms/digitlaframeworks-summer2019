@@ -16,6 +16,6 @@ Q: In what location do most arrests occur?
 
 A: On the sidewalk.
 
-Headline: Three West Side Communities of Chicago Hotspots for Playing Dice 
+Headline: Three West Side Communities Saw the Most Arrests for Playing Dice 
 
 Graf: Over a three year period more people were arrested for playing dice in the West Side of community of Humboldt Park than any other community, an analysis of city data reveals, with 87 arrests between 2016 and 2018.
