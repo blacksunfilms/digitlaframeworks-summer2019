@@ -2,7 +2,7 @@
 
 **Matt Reynolds -- August 2019**
 
-Three questions for Chicago Crime Data Set. NOTE: My data diary is it's own seperate file because I forgot to create folder. It's titled REYNOLDS_DATADIARY_081319. Also, my dataset was too big to upload. UPDATE: I have now included the data files and visulization as a zip file in my repository.
+Three questions for Chicago Crime Data Set. NOTE: My data diary is it's own seperate file because I forgot to create folder. It's titled REYNOLDS_DATADIARY_081319. Also, my dataset was too big to upload. UPDATE: I have now included a data visualization in my repository.
 
 Q: What crime stands out to you in the data?
 
